@@ -8,5 +8,6 @@ xgboost
 Flask
 xgboost
 catboost
+dill
 
 # -e .
